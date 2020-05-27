@@ -1,6 +1,12 @@
 # Jupyter
-Jupyter Code Along Python
+Jupyter Code Along for Python and Data Science
 
-Python basic and advanced cocept with examples
+# Python and Data Science basic and advanced concept explained with examples
 
-NumPy basic and advanced features
+Modules goes through one concept to another smoothly with examples
+
+It includes NumPy basic and advanced features
+
+
+
+For queries contact : raunakagarwal274@gmail.com
